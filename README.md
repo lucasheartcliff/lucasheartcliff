@@ -1,5 +1,4 @@
-<h1 align="center">Lucas Morais</h1>
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/lucasheartcliff/lucasheartcliff/master/image/computer.png" />
+# Lucas Morais
 
 A full-stack developer focused on results, with strong skills in performance optimization and efficiency. Committed to delivering pragmatic solutions that deliver what the customer needs with ethics and responsibility.
 
@@ -78,13 +77,16 @@ A full-stack developer focused on results, with strong skills in performance opt
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
 </a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/dev
 
-icon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+### Low Level Languages
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="40" height="40" />
+</a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
 </a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
 </a>
 
 ### Database
