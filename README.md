@@ -1,5 +1,7 @@
 # Lucas Morais
 
+[![wakatime](https://wakatime.com/badge/user/f1d329ab-b4f3-48bd-8ee8-20a2da432d3c.svg)](https://wakatime.com/@f1d329ab-b4f3-48bd-8ee8-20a2da432d3c)
+
 A full-stack developer focused on results, with strong skills in performance optimization and efficiency. Committed to delivering pragmatic solutions that deliver what the customer needs with ethics and responsibility.
 
 📫 How to reach me **<lucascdemorais@gmail.com>**
@@ -139,6 +141,9 @@ A full-stack developer focused on results, with strong skills in performance opt
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a>
+
+## Activity
+<img src="https://wakatime.com/insights/animated/days.gif" height="150" width="500"/>
 
 ## Support Me
 
