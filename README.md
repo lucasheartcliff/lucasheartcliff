@@ -142,9 +142,6 @@ A full-stack developer focused on results, with strong skills in performance opt
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a>
 
-## Activity
-<img src="https://wakatime.com/insights/animated/days.gif" height="150" width="500"/>
-
 ## Support Me
 
 <a href="https://www.buymeacoffee.com/lucasheartcliff">
