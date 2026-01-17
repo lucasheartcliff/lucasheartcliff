@@ -4,6 +4,9 @@
   <h3>Software Engineer | Java & Architecture Enthusiast | Solving Complex Problems</h3>
   
   <p>
+    <a href="https://lucasheartcliff.com.br">
+      <img src="https://img.shields.io/badge/Portfolio-Visit_Site-purple?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    </a>
     <a href="https://www.linkedin.com/in/lucasheartcliff/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
     </a>
