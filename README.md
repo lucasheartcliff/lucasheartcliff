@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Mid-Level Software Engineer** with a strong background in **Full-Stack development**, specializing in **Backend Architecture** and system scalability. I am passionate about modernizing legacy systems and designing solutions that drive operational efficiency.
+I am a **Software Engineer** with a strong background in **Full-Stack development**, specializing in **Backend Architecture** and system scalability. I am passionate about modernizing legacy systems and designing solutions that drive operational efficiency.
 
 My approach combines technical precision with strategic business alignment—whether it's restructuring monolithic applications into microservices or optimizing data frameworks to eliminate redundancy. I thrive in environments that value **Clean Architecture**, **DDD**, and **Continuous Improvement**.
 
@@ -35,12 +35,14 @@ My approach combines technical precision with strategic business alignment—whe
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Data & Infrastructure** 
+**Data & Infrastructure**
+<br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-**Methodologies** 
+**Methodologies**
+<br/>
 ![DDD](https://img.shields.io/badge/DDD-Domain_Driven_Design-blueviolet?style=flat-square)
 ![TDD](https://img.shields.io/badge/TDD-Test_Driven_Development-green?style=flat-square)
 ![Microservices](https://img.shields.io/badge/Architecture-Microservices-orange?style=flat-square)
