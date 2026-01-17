@@ -25,7 +25,8 @@ My approach combines technical precision with strategic business alignment—whe
 
 ### 🛠 Tech Stack & Methodologies
 
-**Languages & Frameworks** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+**Languages & Frameworks** 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -33,11 +34,13 @@ My approach combines technical precision with strategic business alignment—whe
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Data & Infrastructure** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**Data & Infrastructure** 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-**Methodologies** ![DDD](https://img.shields.io/badge/DDD-Domain_Driven_Design-blueviolet?style=flat-square)
+**Methodologies** 
+![DDD](https://img.shields.io/badge/DDD-Domain_Driven_Design-blueviolet?style=flat-square)
 ![TDD](https://img.shields.io/badge/TDD-Test_Driven_Development-green?style=flat-square)
 ![Microservices](https://img.shields.io/badge/Architecture-Microservices-orange?style=flat-square)
 ![CI/CD](https://img.shields.io/badge/DevOps-CI%2FCD-critical?style=flat-square)
@@ -63,15 +66,6 @@ My work focuses on solving critical business challenges through engineering. Her
 ### 🎓 Education
 
 **Bachelor of Science** | *Universidade Estadual do Rio de Janeiro (UERJ)* Major in Software Development and Computer Engineering
-
----
-
-### 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasheartcliff&show_icons=true&theme=minimal&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasheartcliff&layout=compact&theme=minimal&hide_border=true" height="150" alt="languages graph" />
-</div>
 
 ---
 
