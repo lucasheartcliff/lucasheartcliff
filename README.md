@@ -25,7 +25,8 @@ My approach combines technical precision with strategic business alignment—whe
 
 ### 🛠 Tech Stack & Methodologies
 
-**Languages & Frameworks** 
+**Languages & Frameworks**
+<br/>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
